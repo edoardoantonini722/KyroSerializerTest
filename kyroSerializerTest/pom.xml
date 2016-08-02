@@ -14,5 +14,15 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+	   <groupId>org.blazingcache</groupId>
+	   <artifactId>blazingcache-jcache</artifactId>
+	   <version>1.3.0</version>
+	</dependency>
+    <dependency>
+        <groupId>com.esotericsoftware</groupId>
+        <artifactId>kryo</artifactId>
+        <version>4.0.0</version>
+    </dependency>
   </dependencies>
 </project>
